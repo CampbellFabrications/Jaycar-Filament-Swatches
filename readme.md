@@ -86,7 +86,6 @@ The CAD design is still subject to development, including potential changes to:
 - Support for future filament ranges
 
 The source files may be released separately in the future.
-````
 
 ## Contributions and Acknowledgements
 [Diggle's Filament Colour Swatches and generic trays](https://makerworld.com/en/models/209262-5g-mini-spool-filament-swatch-gridfinity)
