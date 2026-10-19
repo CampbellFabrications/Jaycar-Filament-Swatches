@@ -88,5 +88,5 @@ The CAD design is still subject to development, including potential changes to:
 The source files may be released separately in the future.
 
 ## Contributions and Acknowledgements
-[Diggle's Filament Colour Swatches and generic trays](https://makerworld.com/en/models/209262-5g-mini-spool-filament-swatch-gridfinity)
-Jaycar Electronics Management - For allowing this project to continue thus far and allowing 'third-party' signage to be displayed to link to this project.
+- [Diggle's Filament Colour Swatches and generic trays](https://makerworld.com/en/models/209262-5g-mini-spool-filament-swatch-gridfinity)
+- Jaycar Electronics Management - For allowing this project to continue thus far and allowing 'third-party' signage to be displayed to link to this project.
